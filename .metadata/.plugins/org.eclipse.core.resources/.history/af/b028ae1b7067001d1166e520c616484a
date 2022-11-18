@@ -1,0 +1,5 @@
+package com.projeto.userdept.controllers;
+
+public class UserController {
+
+}

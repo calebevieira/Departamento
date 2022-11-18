@@ -1,0 +1,6 @@
+package com.projeto.userdept.controllers;
+
+@RestController
+public class UserController {
+
+}
